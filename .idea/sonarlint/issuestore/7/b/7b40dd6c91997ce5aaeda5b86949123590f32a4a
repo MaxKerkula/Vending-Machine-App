@@ -1,0 +1,44 @@
+
+h
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(“–ış
+P
+java:S1854:":Remove this useless assignment to local variable "report".(Š“â½
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ëõè¸øÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+‡
+java:S21599"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(¹ˆ’Œ
+A
+java:S1481:"+Remove this unused "report" local variable.(Š“â½
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(Û¢«ÿÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(Ùåµ‚ùÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¼äû²
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(äşŞÖıÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ã³ìÄ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(˜Ç•œ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(“¡Ú
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(Û¢«ÿÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ï›Æ€
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(¿ÈÛèúÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(˜Ç•œ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Û¢«ÿÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.( Ëß„
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Ş„©ûÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(‡€Œıÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(äşŞÖıÿÿÿÿ
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(‡€Œıÿÿÿÿ
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(ı©­Óúÿÿÿÿ
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(äşŞÖıÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(‡€Œıÿÿÿÿ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(Á±œ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ƒì³
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(Á±œ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(äşŞÖıÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(Ñ¼şÓ
+m
+java:S3457ˆ"Q%n should be used in place of \n to produce the platform-specific line separator.(›¨óşÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(›¨óşÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Ôìãİúÿÿÿÿ
+
+java:S2159Œ"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(¡·îÅûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(˜Ç•œ
