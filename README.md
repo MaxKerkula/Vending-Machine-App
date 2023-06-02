@@ -22,11 +22,20 @@ The project is created with:
 ## Installation Steps
 To install the Vending-Machine-App, follow these steps:
 
-1. Clone the repository to your local machine using the command `git clone [repository URL]`.
-2. Navigate to the root directory of the cloned repository.
-3. Run the command `npm install` to install the required dependencies.
-4. Run the command `npm start` to start the application.
-5. Open your web browser and navigate to `http://localhost:3000` to view the application.
+1. Download and install IntelliJ IDEA if you haven't done so already. You can download it from the official JetBrains website. The free Community version will suffice for running this application.
+
+2. Open IntelliJ IDEA, on the Welcome screen, click on "Get from VCS".
+
+3. In the "URL" field, paste the URL of the GitHub repository and click "Clone".
+
+4. Once the project is cloned and loaded, open the Project window by going to "View" -> "Tool Windows" -> "Project" and navigate to the `VendingMachineCLI.java` file located under `src/com/techelevator`.
+
+5. Right-click on the `VendingMachineCLI.java` file in the Project window and select "Run 'VendingMachineCLI.main()'" from the context menu.
+
+6. The program will now execute in IntelliJ's built-in console.
+
+If the project has any dependencies (like external libraries or modules), they should be managed by IntelliJ automatically. However, if there are any issues with dependencies or project setup, you may need to manually resolve them in IntelliJ's Project Structure window (File -> Project Structure).
+
 
 ## Features
 * Product Listing: Users can view available products in the vending machine.
