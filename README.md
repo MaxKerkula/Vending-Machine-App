@@ -35,17 +35,18 @@ To install the Vending-Machine-App, follow these steps:
 * Transaction Logging: All transactions are logged to prevent theft.
 
 ## Usage
-To use the Vending-Machine-App, follow these steps:
+To use the Vending Machine program, follow these steps:
 
-1. Open your web browser and navigate to `http://localhost:3000`.
-2. Use the buttons on the vending machine to select a product.
-3. Insert the required amount of money into the machine.
-4. Press the "Dispense" button to receive your product.
+  1. Run the program. This will present you with a main menu, where you can choose to display items, purchase items, or exit the program.
+  2. To view available items, select the "Display Vending Machine Items" option. This will list all items available for purchase.
+  3. To purchase an item, select the "Purchase" option. This will present you with another menu, where you can choose to feed money, select a product, or finish the transaction.
+  4. To feed money into the machine, select the "Feed Money" option and follow the prompts.
+  5. To select a product, choose the "Select Product" option, and follow the prompts.
+  6. Once you have selected your product and paid, you can choose the "Finish Transaction" option to complete your purchase and receive your change.
 
 ## Troubleshooting
-If you encounter any issues while using the Vending-Machine-App, try the following troubleshooting tips:
+If you encounter any issues while using the Vending Machine program, try the following troubleshooting tips:
 
-- Make sure you have the latest version of Node.js and npm installed.
-- Make sure you have installed all the required dependencies by running the command `npm install`.
-- Check the console for any error messages.
-- If all else fails, try restarting the application by stopping the server and running the command `npm start` again.
+  * Ensure you have the latest version of Java installed.
+  * Check for error messages in the console.
+  * If all else fails, try restarting the application.
